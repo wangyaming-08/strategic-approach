@@ -1,2 +1,5 @@
-# strategic-approach
-javascript设计模式学习
+*[高阶函数](./src/高阶函数.md)
+
+*[单例模式](./src/单例模式.md)
+
+*[策略模式](./src/策略模式.md)
